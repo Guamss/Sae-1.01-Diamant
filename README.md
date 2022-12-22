@@ -9,7 +9,7 @@ Pour jouer sur un terminal, il suffit de lancer ***main_term.py*** dans le dossi
 
 Une fois le jeu lancé, les informations essentielles sont données aux joueurs. <br>
 
-#### Spécificité pour comprendre le jeu :
+## Spécificité pour comprendre le jeu :
 1. Quand une carte rubis est tirée, elle est divisée équitablement entre tous les joueurs
 et le reste est dans la liste des cartes sur le terrain. <br>
  Exemple à 3 joueurs :
