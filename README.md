@@ -21,3 +21,5 @@ C'est à dire que la liste des cartes modifiées sont :
 - piège : [ spider , creeper , lava , enderman ]
 
 **Remarque : Le jeu n'est jouable qu'entre 3 et 8 personnes (inclus).**
+
+![Sans titre](https://user-images.githubusercontent.com/84103917/209240260-cd84793b-2f70-4b0c-ae58-157384497477.png)
